@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_040b_1">
+        <TypeIdentifier>
+          <NewMemberFileName>MFCApplication2Dlg.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFCApplication2Dlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CArtist">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEAAAAEAAAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Artist.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCalculation">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAQAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Calculation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Idata">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAQAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Idata.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCApplication2App">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAA=</HashCode>
+      <FileName>MFCApplication2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCApplication2Dlg">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="CMFCApplication2Dlg::__unnamed_enum_040c_1">
+        <TypeIdentifier>
+          <NewMemberFileName>MFCApplication2Dlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EACAIhEQAAEAAGQAABABAAAAQAAAAAQAAAAEYAAYAAA=</HashCode>
+      <FileName>MFCApplication2Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTrans">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAYAAgAAAAACCEAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trans.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="X_Y_s">
+    <Position X="7.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Calculation.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
